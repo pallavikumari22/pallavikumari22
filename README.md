@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <h2>👋 Hi there, I'm <span style="color:#00C4FF;">Sachin Burnwal</span></h2>
+  <h2>👋 Hi there, I'm <span style="color:#00C4FF;">pallavi </span></h2>
 </div>
 
 I’m a full-stack developer and cybersecurity enthusiast driven by a deep passion for building more than just functional apps — I strive to create intelligent, immersive, and meaningful digital experiences that leave a lasting impact.<br>From sketching wild ideas on paper to transforming them into fully functional, user-centric web apps, I thrive at the intersection of creativity, code, and cyber awareness. I believe technology should not only work — it should feel powerful, look futuristic, and stay secure at its core.<br>🕸 Creator of SpiderWeb – A Cyber Recon Toolkit with features like Username Scanner, Email Breach Checker, IP Threat Intelligence, and more.<br><br>💻 Full-Stack Dev – React, Node.js, Express, MongoDB, Tailwind, and GSAP.<br><br>🕵‍♂ Cybersecurity Explorer – Pen-testing basics, data leaks, and threat intelligence.<br><br>🤖 AI Integrator – Building smart features using OpenAI/Gemini APIs.<br><br>🚀 Currently Building: SPIDERWEB<br>🔬 Advanced threat recon tools<br><br>✨ Scroll-based 3D storytelling experiences<br><br>💥 Tools that fuse automation, OSINT, and cyber design<br><br>📫
